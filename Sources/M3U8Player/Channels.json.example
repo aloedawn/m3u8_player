@@ -1,0 +1,8 @@
+[
+  {
+    "name": "채널명",
+    "url": "https://example.com/stream/playlist.m3u8",
+    "number": 1,
+    "category": "카테고리"
+  }
+]
